@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://zzanghee.vercel.app/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://github.com/zjan0ghy/morethan-log/blob/main/public/a%20href%3Dhttpswww.flaticon.comkrfree-icons%20title%3D%EC%99%95%EA%B4%80%20%EC%95%84%EC%9D%B4%EC%BD%98%EC%99%95%EA%B4%80%20%EC%95%84%EC%9D%B4%EC%BD%98%20%20%EC%A0%9C%EC%9E%91%EC%9E%90%20Freepik%20-%20Flaticona.png", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
